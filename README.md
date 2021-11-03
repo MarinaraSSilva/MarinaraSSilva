@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align='left'>
-  Sou formada em Processos Químicos e curso Engenharia Química, curiosa sobre o mundo dos dados resolvi aprender um pouco mais e registrar meu progresso nesse perfil.
+  Sou formada em Processos Químicos e curso Engenharia Química, curiosa sobre o mundo dos dados resolvi aprender um pouco e registrar meu progresso nesse perfil.
   </p>
 </div>
   
